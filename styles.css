@@ -1545,6 +1545,10 @@ button#submitBtn:disabled {
     box-shadow: var(--shadow-md);
   }
 
+  #issueType, #siteSelect, #severity {
+    height: 50px;
+  }
+
   .nav-links.open {
     display: flex;
   }
